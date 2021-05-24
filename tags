@@ -1,0 +1,20 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Krouch	krouch.py	/^class Krouch():$/;"	c
+UI	ui.py	/^class UI():$/;"	c
+__init__	krouch.py	/^    def __init__(self, pos, speed):$/;"	m	class:Krouch
+__init__	ui.py	/^    def __init__(self, krouch_asset, insane_krouch_asset):$/;"	m	class:UI
+add_krouch	ui.py	/^    def add_krouch(self):$/;"	m	class:UI
+clean	ui.py	/^    def clean(self):$/;"	m	class:UI
+create_and_add	ui.py	/^    def create_and_add(self):$/;"	m	class:UI
+draw	ui.py	/^    def draw(self):$/;"	m	class:UI
+hit	krouch.py	/^    def hit(self):$/;"	m	class:Krouch
+init_krouchs	ui.py	/^    def init_krouchs(self):$/;"	m	class:UI
+key	ui.py	/^    def key(self, key):$/;"	m	class:UI
+main	main.py	/^def main():$/;"	f
+update	krouch.py	/^    def update(self):$/;"	m	class:Krouch
+update	ui.py	/^    def update(self):$/;"	m	class:UI
